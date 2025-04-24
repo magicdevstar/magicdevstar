@@ -70,17 +70,18 @@
       <br>Github
     </td>
   </tr>
+  </tr>
 </table>
 
 ---
 
-# 👋 Hi, I'm Kai Matsuda!
+# 👋 Hi, I'm MagicDevStar!
 
-🚀 **Full-Stack Developer | Blockchain Expert | Mobile App Developer | Open Source Contributor**
+🚀 **Full-Stack Developer | Shopify Expert | Mobile App Developer | Ecommerce specialist**
 
 ### 💡 About Me
 
-I'm a passionate **full-stack developer** with over **8 years of experience** in **web development** and **4+ years of experience** in **mobile app development**. Over the last 4 years, I've specialized in **blockchain** development and have successfully built decentralized applications (dApps), smart contracts, and integrated blockchain solutions. My goal is to deliver **efficient**, **scalable**, and **maintainable** solutions that push the boundaries of what’s possible in both the web and mobile development space.
+I'm a passionate **Full-stack developer(Shopify, React)** with over **9 years of experience** in **web development** and **4+ years of experience** in **woocommerce and wordpress development**. Over the last 4 years, I've specialized in **MedusaJS and WebFlow, Smootify** development and have successfully built decentralized applications (dApps), smart contracts, and integrated solutions. My goal is to deliver **efficient**, **scalable**, and **maintainable** solutions that push the boundaries of what’s possible in both the web and mobile development space.
 
 ### ⚡ Tech Stack
 
@@ -91,8 +92,8 @@ I'm a passionate **full-stack developer** with over **8 years of experience** in
 
 #### **Backend**
 
-- **Node.js, Python, Django, C#**
-- **GraphQL, TypeScript**
+- **Node.js, Python**
+- **GraphQL, TypeScript, RestAPI**
 
 #### **Databases & Cloud**
 
@@ -105,72 +106,8 @@ I'm a passionate **full-stack developer** with over **8 years of experience** in
 
 ---
 
-### **Blockchain Expertise**
-
-With **4+ years of experience** in blockchain development, I have a solid understanding of **smart contracts**, **decentralized applications**, and **blockchain architecture**. I am passionate about developing secure and scalable blockchain solutions for a variety of use cases, including DeFi, NFTs, and more.
-
-#### **Smart Contract Development**
-
-- **Solidity** (Ethereum smart contracts)
-- **Rust** (Solana, Near Protocol)
-- **Vyper** (Ethereum smart contract language)
-
-#### **Blockchain Platforms**
-
-- **Ethereum** (DeFi, NFTs)
-- **Solana** (high-performance blockchain)
-- **Polkadot** (cross-chain interoperability)
-- **Binance Smart Chain** (DeFi and dApps)
-- **Cardano** (proof of stake blockchain)
-
-#### **Web3 Technologies**
-
-- **Web3.js, Ethers.js** (Ethereum JavaScript libraries)
-- **Moralis** (Web3 backend platform)
-- **IPFS** (decentralized file storage)
-- **Chainlink** (decentralized oracles)
-
-#### **Blockchain Development Tools**
-
-- **Truffle Suite** (Ethereum development environment)
-- **Hardhat** (Ethereum development framework)
-- **Ganache** (personal blockchain for Ethereum)
-- **Metamask** (Ethereum wallet integration)
-
-#### **Decentralized Protocols**
-
-- **The Graph** (decentralized data querying for dApps)
-- **Polygon** (Layer-2 scaling for Ethereum)
-- **Uniswap / SushiSwap** (decentralized exchanges)
-
----
-
-### **Web Development Expertise**
-
-With **8+ years of experience** in web development, I've worked on a variety of web applications, from small projects to large-scale enterprise systems, ensuring they are performant, scalable, and user-friendly.
-
-- **HTML, CSS, JavaScript** (Core web technologies)
-- **React, Vue, Angular** (Frontend frameworks)
-- **Node.js, Express** (Backend technologies)
-- **RESTful APIs, GraphQL** (API development)
-- **SQL, NoSQL** (Database management)
-- **AWS, GCP** (Cloud infrastructure)
-
----
-
-### **Mobile App Development Expertise**
-
-With **4+ years of experience** in mobile app development, I have built both **native** and **cross-platform** mobile applications that deliver seamless experiences to users.
-
-- **React Native**
-- **Flutter**
-- **Swift, Kotlin** (Native app development)
-- **Firebase, AWS Mobile Services** (Backend solutions)
-
----
-
 ### 📫 Get in Touch
 
-- GitHub: [https://github.com/kaimatsuda29](https://github.com/kaimatsuda29)
+- GitHub: [https://github.com/magicdevstar](https://github.com/magicdevstar)
 
 ---
