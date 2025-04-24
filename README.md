@@ -83,9 +83,8 @@
     </td>
     <td align="center" width="96">
       <a href="https://flutter.dev/">
-        <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg"
+        <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" width="65" height="65" alt="Git" />
       </a>
-        width="65" height="65" alt="Git" />
       <br>Flutter
     </td>
     <td align="center" width="96">
