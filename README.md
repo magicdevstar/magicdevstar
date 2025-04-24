@@ -8,81 +8,110 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <img src="shopify-color-svgrepo-com.svg">
+      <a href="https://www.shopify.com/">
+        <img src="shopify-color-svgrepo-com.svg">
+      </a>
       <br>Shopify
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://react.dev/">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://vercel.com/frameworks/nextjs">
         <img src="nextjs-svgrepo-com.svg" alt="icon" width="65" height="65" />
       </a>
       <br>NextJS
     </td>
     <td align="center" width="96">
-      <img src="https://reactnative.dev/img/header_logo.svg"
-        width="65" height="65" alt="Git" />
+      <a href="https://reactnative.dev/">
+        <img src="https://reactnative.dev/img/header_logo.svg" width="65" height="65" alt="Git" />
+      </a>
       <br>React_Native
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
+      <a href="https://vuejs.org/">
+        <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
+      </a>
       <br>Vue
     </td>
     <td align="center" width="96">
-      <img src="wordpress-svgrepo-com.svg" alt="icon" width="65" height="65" />
+      <a href="https://wordpress.com/">
+        <img src="wordpress-svgrepo-com.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>Wordpress
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="woocommerce-icon-svgrepo-com.svg" width="65" height="65" alt="tailwind" />
+      <a href="https://woocommerce.com/">
+        <img src="woocommerce-icon-svgrepo-com.svg" width="65" height="65" alt="tailwind" />
+      </a>
       <br>Woocommerce
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mui" width="65" height="65" alt="PostgreSQL" />
+      <a href="https://mui.com/">
+        <img src="https://skillicons.dev/icons?i=mui" width="65" height="65" alt="PostgreSQL" />
+      </a>
       <br>MUI
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
+      <a href="https://graphql.org/">
+        <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
+      </a>
       <br>GraphQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      <a href="https://www.mongodb.com/">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      </a>
       <br>MongoDB
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
+    <td align="center" width="96"> 
+      <a href="https://nodejs.org/en">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Nodejs" />
+      </a>
       <br>Nodejs
     </td>
     <td align="center" width="96">
-      <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg"
+      <a href="https://flutter.dev/">
+        <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg"
+      </a>
         width="65" height="65" alt="Git" />
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://www.shopify.com/">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>Github
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="https://www.python.org/">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://aws.amazon.com/">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      </a>
       <br>AWS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
+      <a href="https://tailwindcss.com/">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
+      </a>
       <br>Tailwind
     </td>
   </tr>
