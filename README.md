@@ -85,9 +85,14 @@ I'm a passionate **Full-stack developer(Shopify, React)** with over **9 years of
 
 ### ⚡ Tech Stack
 
+#### **eCommerce**
+
+- **Shopify, Shopify Plus, Shopify App Development, Shopify Theme Customization**
+- **Woocommerce, bigcommerce, MedusaJS, Smootify, Vendure**
+
 #### **Frontend**
 
-- **React, Vue, React Native, Flutter**
+- **React, Vue, React Native, Flutter, Webflow**
 - **Tailwind CSS, MUI**
 
 #### **Backend**
