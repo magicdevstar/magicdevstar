@@ -8,10 +8,10 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://www.shopify.com/">
-        <img src="shopify-color-svgrepo-com.svg">
+      <a href="https://vercel.com/frameworks/nextjs">
+        <img src="nextjs-svgrepo-com.svg" alt="icon" width="65" height="65" />
       </a>
-      <br>Shopify
+      <br>NextJS
     </td>
     <td align="center" width="96">
       <a href="https://react.dev/">
@@ -26,10 +26,10 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="https://vercel.com/frameworks/nextjs">
-        <img src="nextjs-svgrepo-com.svg" alt="icon" width="65" height="65" />
+      <a href="https://www.shopify.com/">
+        <img src="shopify-color-svgrepo-com.svg">
       </a>
-      <br>NextJS
+      <br>Shopify
     </td>
     <td align="center" width="96">
       <a href="https://reactnative.dev/">
