@@ -130,8 +130,8 @@ I'm a passionate **Full-stack developer(Shopify, React)** with over **9 years of
 
 #### **eCommerce**
 
+- **MedusaJS, Sanity, Smootify, Vendure**
 - **Shopify, Shopify Plus, Shopify App Development, Shopify Theme Customization**
-- **Woocommerce, bigcommerce, MedusaJS, Smootify, Vendure**
 
 #### **Frontend**
 
