@@ -140,8 +140,8 @@ I'm a passionate **Full-stack developer(Shopify, React)** with over **9 years of
 
 #### **Backend**
 
-- **Node.js(Express), Python(Flask, Django, FastApi)**
-- **GraphQL, TypeScript, RestAPI**
+- **NextJS, Node.js(Express), Python(Flask, Django, FastApi)**
+- **GraphQL, RestAPI, CI/CD, AWS**
 
 #### **Databases & Cloud**
 
