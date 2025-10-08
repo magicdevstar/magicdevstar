@@ -124,35 +124,28 @@
 
 ### 💡 About Me
 
-I'm a passionate **Full-stack developer(Shopify, React)** with over **9 years of experience** in **web development** and **4+ years of experience** in **woocommerce and wordpress development**. Over the last 4 years, I've specialized in **MedusaJS and WebFlow, Smootify** development and have successfully built decentralized applications (dApps), smart contracts, and integrated solutions. My goal is to deliver **efficient**, **scalable**, and **maintainable** solutions that push the boundaries of what’s possible in both the web and mobile development space.
+A zealous developer who is always willing to utilize technology to increase user satisfaction, has a good foundation in algorithms and data structures, and is looking forward to working in a software engineering role that is innovative and collaborative.
 
 ### ⚡ Tech Stack
 
-#### **eCommerce**
-
-- **MedusaJS, Sanity, Smootify, Vendure**
-- **Shopify, Shopify Plus, Shopify App Development, Shopify Theme Customization**
-
 #### **Frontend**
 
-- **React, Vue, React Native, Flutter, Webflow**
+- **React, Vue, React Native, TypeScript, AngularJS, Laravel**
 - **Tailwind CSS, MUI**
 
 #### **Backend**
 
-- **NextJS, Node.js(Express), Python(Flask, Django, FastApi)**
+- **NextJS, Node.js(Express), Python(Flask, Django, FastApi), PHP**
 - **GraphQL, RestAPI, CI/CD, AWS**
 
-#### **Databases & Cloud**
+#### *DevOps / Database**
 
-- **PostgreSQL, MySQL, MongoDB**
-- **AWS**
+- **PostgreSQL, MySQL, MongoDB, Redis**
+- **AWS(EC2, Lambda, S3, ECS/EKS), Azure, Docker, Kubernetes**
 
-#### **DevOps & Tools**
+#### **eCommerce**
 
-- **Git, GitHub**
-
----
+- **MedusaJS, Sanity, Smootify, Vendure, Shopify**
 
 ### 📫 Get in Touch
 
