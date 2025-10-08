@@ -52,10 +52,10 @@
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://woocommerce.com/">
-        <img src="woocommerce-icon-svgrepo-com.svg" width="65" height="65" alt="tailwind" />
+      <a href="https://docker.com/">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="docker" />
       </a>
-      <br>Woocommerce
+      <br>Docker
     </td>
     <td align="center" width="96">
       <a href="https://mui.com/">
