@@ -38,24 +38,30 @@
       <br>OpenAI
     </td>
     <td align="center" width="96">
-      <a href="https://vercel.com/frameworks/nextjs">
-        <img src="nextjs-svgrepo-com.svg" alt="icon" width="65" height="65" />
+      <a href="https://www.anthropic.com/">
+        <img src="https://skillicons.dev/icons?i=anthropic" width="65" height="65" alt="Anthropic" />
       </a>
-      <br>NextJS
+      <br>Anthropic
     </td>
     <td align="center" width="96">
-      <a href="https://react.dev/">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://huggingface.co/">
+        <img src="https://skillicons.dev/icons?i=huggingface" width="65" height="65" alt="Hugging Face" />
       </a>
-      <br>React
+      <br>RAG
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <a href="https://www.typescriptlang.org/">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://www.djangoproject.com/">
+        <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django" />
       </a>
-      <br>TypeScript
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="https://vercel.com/frameworks/nextjs">
+        <img src="nextjs-svgrepo-com.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>NextJS
     </td>
     <td align="center" width="96"> 
       <a href="https://nodejs.org/en">
@@ -64,11 +70,31 @@
       <br>Nodejs
     </td>
     <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://react.dev/">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>React
+    </td>
+    <td align="center" width="96">
       <a href="https://aws.amazon.com/">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>AWS
     </td>
+    <td align="center" width="96">
+      <a href="https://www.pinecone.io/">
+        <img src="https://skillicons.dev/icons?i=pinecone" width="65" height="65" alt="Pinecone" />
+      </a>
+      <br>Pinecone
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://docker.com/">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="docker" />
@@ -82,42 +108,16 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
-      <a href="https://www.pinecone.io/">
-        <img src="https://skillicons.dev/icons?i=pinecone" width="65" height="65" alt="Pinecone" />
-      </a>
-      <br>Pinecone
-    </td>
-    <td align="center" width="96">
-      <a href="https://tailwindcss.com/">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
-      </a>
-      <br>Tailwind
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
       <a href="https://reactnative.dev/">
         <img src="https://reactnative.dev/img/header_logo.svg" width="65" height="65" alt="Git" />
       </a>
       <br>React_Native
     </td>
     <td align="center" width="96">
-      <a href="https://www.djangoproject.com/">
-        <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django" />
+      <a href="https://tailwindcss.com/">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
       </a>
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <a href="https://huggingface.co/">
-        <img src="https://skillicons.dev/icons?i=huggingface" width="65" height="65" alt="Hugging Face" />
-      </a>
-      <br>RAG
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.anthropic.com/">
-        <img src="https://skillicons.dev/icons?i=anthropic" width="65" height="65" alt="Anthropic" />
-      </a>
-      <br>Anthropic
+      <br>Tailwind
     </td>
   </tr>
 </table>
