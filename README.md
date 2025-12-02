@@ -27,25 +27,25 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.langchain.com/">
-        <img src="https://skillicons.dev/icons?i=langchain" width="65" height="65" alt="LangChain" />
+        <img src="LangChain_id12EQi2QW_0.png" alt="LangChain" width="65" height="65" />
       </a>
       <br>LangChain
     </td>
     <td align="center" width="96">
       <a href="https://openai.com/">
-        <img src="https://skillicons.dev/icons?i=openai" width="65" height="65" alt="OpenAI" />
+        <img src="openai-svgrepo-com.svg" alt="OpenAI" width="65" height="65" />
       </a>
       <br>OpenAI
     </td>
     <td align="center" width="96">
       <a href="https://www.anthropic.com/">
-        <img src="https://skillicons.dev/icons?i=anthropic" width="65" height="65" alt="Anthropic" />
+        <img src="Anthropic_Symbol_0.svg" alt="Anthropic" width="65" height="65" />
       </a>
       <br>Anthropic
     </td>
     <td align="center" width="96">
       <a href="https://huggingface.co/">
-        <img src="https://skillicons.dev/icons?i=huggingface" width="65" height="65" alt="Hugging Face" />
+        <img src="Hugging Face_idJ6-I79C__0.svg" alt="Hugging Face" width="65" height="65" />
       </a>
       <br>RAG
     </td>
@@ -62,6 +62,12 @@
         <img src="nextjs-svgrepo-com.svg" alt="icon" width="65" height="65" />
       </a>
       <br>NextJS
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.pinecone.io/">
+        <img src="https://skillicons.dev/icons?i=pinecone" width="65" height="65" alt="Pinecone" />
+      </a>
+      <br>Pinecone
     </td>
     <td align="center" width="96"> 
       <a href="https://nodejs.org/en">
@@ -86,12 +92,6 @@
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>AWS
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.pinecone.io/">
-        <img src="https://skillicons.dev/icons?i=pinecone" width="65" height="65" alt="Pinecone" />
-      </a>
-      <br>Pinecone
     </td>
   </tr>
   <tr>
