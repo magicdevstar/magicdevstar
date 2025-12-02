@@ -8,6 +8,36 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.tensorflow.org/">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="https://pytorch.org/">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
+      </a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.langchain.com/">
+        <img src="https://skillicons.dev/icons?i=langchain" width="65" height="65" alt="LangChain" />
+      </a>
+      <br>LangChain
+    </td>
+    <td align="center" width="96">
+      <a href="https://openai.com/">
+        <img src="https://skillicons.dev/icons?i=openai" width="65" height="65" alt="OpenAI" />
+      </a>
+      <br>OpenAI
+    </td>
+    <td align="center" width="96">
       <a href="https://vercel.com/frameworks/nextjs">
         <img src="nextjs-svgrepo-com.svg" alt="icon" width="65" height="65" />
       </a>
@@ -19,61 +49,13 @@
       </a>
       <br>React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.typescriptlang.org/">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tensorflow.org/">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
-      </a>
-      <br>TensorFlow
-    </td>
-    <td align="center" width="96">
-      <a href="https://reactnative.dev/">
-        <img src="https://reactnative.dev/img/header_logo.svg" width="65" height="65" alt="Git" />
-      </a>
-      <br>React_Native
-    </td>
-    <td align="center" width="96">
-      <a href="https://vuejs.org/">
-        <img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
-      </a>
-      <br>Vue
-    </td>
-    <td align="center" width="96">
-      <a href="https://openai.com/">
-        <img src="https://skillicons.dev/icons?i=openai" width="65" height="65" alt="OpenAI" />
-      </a>
-      <br>OpenAI
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://docker.com/">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="https://mui.com/">
-        <img src="https://skillicons.dev/icons?i=mui" width="65" height="65" alt="PostgreSQL" />
-      </a>
-      <br>MUI
-    </td>
-    <td align="center" width="96">
-      <a href="https://graphql.org/">
-        <img src="https://skillicons.dev/icons?i=graphql" width="65" height="65" alt="MySQL" />
-      </a>
-      <br>GraphQL
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mongodb.com/">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      </a>
-      <br>MongoDB
     </td>
     <td align="center" width="96"> 
       <a href="https://nodejs.org/en">
@@ -82,30 +64,28 @@
       <br>Nodejs
     </td>
     <td align="center" width="96">
-      <a href="https://flutter.dev/">
-        <img src="https://docs.flutter.dev/assets/images/branding/flutter/logo/default.svg" width="65" height="65" alt="Git" />
-      </a>
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <a href="https://pytorch.org/">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
-      </a>
-      <br>PyTorch
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
       <a href="https://aws.amazon.com/">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       </a>
       <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="https://docker.com/">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.pinecone.io/">
+        <img src="https://skillicons.dev/icons?i=pinecone" width="65" height="65" alt="Pinecone" />
+      </a>
+      <br>Pinecone
     </td>
     <td align="center" width="96">
       <a href="https://tailwindcss.com/">
@@ -113,11 +93,31 @@
       </a>
       <br>Tailwind
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <a href="https://www.langchain.com/">
-        <img src="https://skillicons.dev/icons?i=langchain" width="65" height="65" alt="LangChain" />
+      <a href="https://reactnative.dev/">
+        <img src="https://reactnative.dev/img/header_logo.svg" width="65" height="65" alt="Git" />
       </a>
-      <br>LangChain
+      <br>React_Native
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.djangoproject.com/">
+        <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="https://huggingface.co/">
+        <img src="https://skillicons.dev/icons?i=huggingface" width="65" height="65" alt="Hugging Face" />
+      </a>
+      <br>RAG
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.anthropic.com/">
+        <img src="https://skillicons.dev/icons?i=anthropic" width="65" height="65" alt="Anthropic" />
+      </a>
+      <br>Anthropic
     </td>
   </tr>
 </table>
@@ -134,27 +134,27 @@ A passionate AI-focused full-stack developer who leverages machine learning and 
 
 ### ⚡ Tech Stack
 
-#### **Frontend**
+#### **AI/ML & LLMs**
 
-- **React, Vue, React Native, TypeScript, AngularJS, Laravel**
-- **Tailwind CSS, MUI**
+- **Python, TensorFlow, PyTorch, Scikit-learn, LangChain, LlamaIndex**
+- **OpenAI GPT, Anthropic Claude, Hugging Face Transformers**
+- **Vector Embeddings, RAG (Retrieval-Augmented Generation), Fine-tuning**
 
 #### **Backend**
 
-- **NextJS, Node.js(Express), Python(Flask, Django, FastApi), PHP**
-- **GraphQL, RestAPI, CI/CD, AWS**
+- **Python(Flask, Django, FastApi), NextJS, Node.js(Express), PHP**
 - **AI/ML APIs: OpenAI, Anthropic, Hugging Face**
+- **RestAPI, CI/CD, AWS**
+
+#### **Frontend**
+
+- **React, NextJS, TypeScript, React Native, AngularJS, Laravel**
+- **Tailwind CSS**
 
 #### **DevOps / Database**
 
-- **PostgreSQL, MySQL, MongoDB, Redis, Vector Databases (Pinecone, Weaviate)**
 - **AWS(EC2, Lambda, S3, ECS/EKS, SageMaker), Azure, Docker, Kubernetes**
-
-#### **AI/ML & LLMs**
-
-- **TensorFlow, PyTorch, Scikit-learn, LangChain, LlamaIndex**
-- **OpenAI GPT, Anthropic Claude, Hugging Face Transformers**
-- **Vector Embeddings, RAG (Retrieval-Augmented Generation), Fine-tuning**
+- **PostgreSQL, MySQL, MongoDB, Redis, Vector Databases (Pinecone, Weaviate)**
 
 ### 📫 Get in Touch
 
