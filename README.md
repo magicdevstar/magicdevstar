@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/magicdevstar"><img
-      src="https://readme-typing-svg.herokuapp.com/?lines=e-Commerce%20developer;Web%20and%20mobile%20master;Senior%20Software%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+      src="https://readme-typing-svg.herokuapp.com/?lines=AI%20Full-Stack%20Developer;ML%20%26%20Deep%20Learning;Senior%20Software%20Engineer;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
@@ -26,10 +26,10 @@
       <br>TypeScript
     </td>
     <td align="center" width="96">
-      <a href="https://www.shopify.com/">
-        <img src="shopify-color-svgrepo-com.svg">
+      <a href="https://www.tensorflow.org/">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="TensorFlow" />
       </a>
-      <br>Shopify
+      <br>TensorFlow
     </td>
     <td align="center" width="96">
       <a href="https://reactnative.dev/">
@@ -44,10 +44,10 @@
       <br>Vue
     </td>
     <td align="center" width="96">
-      <a href="https://wordpress.com/">
-        <img src="wordpress-svgrepo-com.svg" alt="icon" width="65" height="65" />
+      <a href="https://openai.com/">
+        <img src="https://skillicons.dev/icons?i=openai" width="65" height="65" alt="OpenAI" />
       </a>
-      <br>Wordpress
+      <br>OpenAI
     </td>
   </tr>
   <tr>
@@ -88,10 +88,10 @@
       <br>Flutter
     </td>
     <td align="center" width="96">
-      <a href="https://www.shopify.com/">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <a href="https://pytorch.org/">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="PyTorch" />
       </a>
-      <br>Github
+      <br>PyTorch
     </td>
   </tr>
   <tr>
@@ -113,6 +113,12 @@
       </a>
       <br>Tailwind
     </td>
+    <td align="center" width="96">
+      <a href="https://www.langchain.com/">
+        <img src="https://skillicons.dev/icons?i=langchain" width="65" height="65" alt="LangChain" />
+      </a>
+      <br>LangChain
+    </td>
   </tr>
 </table>
 
@@ -120,11 +126,11 @@
 
 # 👋 Hi, I'm MagicDevStar!
 
-🚀 **Full-Stack Developer | Shopify Expert | Mobile App Developer | Ecommerce specialist**
+🚀 **Full-Stack Developer | AI/ML Engineer | Deep Learning Specialist | LLM Integration Expert**
 
 ### 💡 About Me
 
-A zealous developer who is always willing to utilize technology to increase user satisfaction, has a good foundation in algorithms and data structures, and is looking forward to working in a software engineering role that is innovative and collaborative.
+A passionate AI-focused full-stack developer who leverages machine learning and artificial intelligence to build intelligent solutions. With a strong foundation in algorithms, data structures, and deep learning, I specialize in integrating AI capabilities into web and mobile applications. Always exploring cutting-edge AI technologies and looking forward to working on innovative projects that push the boundaries of what's possible.
 
 ### ⚡ Tech Stack
 
@@ -137,15 +143,18 @@ A zealous developer who is always willing to utilize technology to increase user
 
 - **NextJS, Node.js(Express), Python(Flask, Django, FastApi), PHP**
 - **GraphQL, RestAPI, CI/CD, AWS**
+- **AI/ML APIs: OpenAI, Anthropic, Hugging Face**
 
-#### *DevOps / Database**
+#### **DevOps / Database**
 
-- **PostgreSQL, MySQL, MongoDB, Redis**
-- **AWS(EC2, Lambda, S3, ECS/EKS), Azure, Docker, Kubernetes**
+- **PostgreSQL, MySQL, MongoDB, Redis, Vector Databases (Pinecone, Weaviate)**
+- **AWS(EC2, Lambda, S3, ECS/EKS, SageMaker), Azure, Docker, Kubernetes**
 
-#### **eCommerce**
+#### **AI/ML & LLMs**
 
-- **MedusaJS, Sanity, Smootify, Vendure, Shopify**
+- **TensorFlow, PyTorch, Scikit-learn, LangChain, LlamaIndex**
+- **OpenAI GPT, Anthropic Claude, Hugging Face Transformers**
+- **Vector Embeddings, RAG (Retrieval-Augmented Generation), Fine-tuning**
 
 ### 📫 Get in Touch
 
