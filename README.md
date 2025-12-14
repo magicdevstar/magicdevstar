@@ -27,25 +27,25 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.langchain.com/">
-        <img src="LangChain_id12EQi2QW_0.png" alt="LangChain" width="65" height="65" />
+        <img src="langchain.png" alt="LangChain" width="65" height="65" />
       </a>
       <br>LangChain
     </td>
     <td align="center" width="96">
       <a href="https://openai.com/">
-        <img src="openai-svgrepo-com.svg" alt="OpenAI" width="65" height="65" />
+        <img src="openai.svg" alt="OpenAI" width="65" height="65" />
       </a>
       <br>OpenAI
     </td>
     <td align="center" width="96">
       <a href="https://www.anthropic.com/">
-        <img src="Anthropic_Symbol_0.svg" alt="Anthropic" width="65" height="65" />
+        <img src="anthropic.svg" alt="Anthropic" width="65" height="65" />
       </a>
       <br>Anthropic
     </td>
     <td align="center" width="96">
       <a href="https://huggingface.co/">
-        <img src="Hugging Face_idJ6-I79C__0.svg" alt="Hugging Face" width="65" height="65" />
+        <img src="hugging_face.svg" alt="Hugging Face" width="65" height="65" />
       </a>
       <br>RAG
     </td>
@@ -59,13 +59,13 @@
     </td>
     <td align="center" width="96">
       <a href="https://vercel.com/frameworks/nextjs">
-        <img src="nextjs-svgrepo-com.svg" alt="icon" width="65" height="65" />
+        <img src="nextjs.svg" alt="icon" width="65" height="65" />
       </a>
       <br>NextJS
     </td>
     <td align="center" width="96">
       <a href="https://www.pinecone.io/">
-        <img src="https://skillicons.dev/icons?i=pinecone" width="65" height="65" alt="Pinecone" />
+        <img src="pinecone.svg" width="65" height="65" alt="Pinecone" />
       </a>
       <br>Pinecone
     </td>
